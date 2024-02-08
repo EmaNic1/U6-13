@@ -1,0 +1,8 @@
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 1\Laboratoriniai\U6-13\U6-13\bin\Debug\U6-13.exe.config
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 1\Laboratoriniai\U6-13\U6-13\bin\Debug\U6-13.exe
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 1\Laboratoriniai\U6-13\U6-13\bin\Debug\U6-13.pdb
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 1\Laboratoriniai\U6-13\U6-13\obj\Debug\U6-13.csproj.AssemblyReference.cache
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 1\Laboratoriniai\U6-13\U6-13\obj\Debug\U6-13.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 1\Laboratoriniai\U6-13\U6-13\obj\Debug\U6-13.csproj.CoreCompileInputs.cache
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 1\Laboratoriniai\U6-13\U6-13\obj\Debug\U6-13.exe
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 1\Laboratoriniai\U6-13\U6-13\obj\Debug\U6-13.pdb

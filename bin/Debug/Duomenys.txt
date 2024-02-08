@@ -1,0 +1,9 @@
+Wanderers; Ponas Terneris; 4; 10;
+Pavarde1 Vardas1; 2003; 70,00; Vartininkas;
+Pavarde2 Vardas2; 2002; 59,80; Desinysis sparnas;
+Pavarde3 Vardas3; 2004; 65,00; Kairysis gynejas;
+Pavarde4 Vardas4; 2000; 68,30; Vidurio puolejas;
+5 4 1 2 5 2 6 3 3 7
+9 5 7 7 8 8 7 9 7 9
+1 3 2 7 9 4 0 5 3 5
+9 7 7 6 8 9 9 6 5 9
